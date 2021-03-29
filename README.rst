@@ -2,6 +2,11 @@
     :target: https://coveralls.io/bitbucket/openpyxl/openpyxl?branch=default
     :alt: coverage status
 
+Fork of openpyxl
+-----------------
+
+openpyxl was forked so that I could catch an OverflowError when parsing dates.
+
 Introduction
 ------------
 
